@@ -1,0 +1,12 @@
+public class exercicio_tabuada_for {
+    public static void main(String[] args) {
+
+        for (int tabuada = 1; tabuada <= 10; tabuada++) {
+            for (int i = 1; i <= 10; i++) {
+                System.out.printf("%d x %d = %d\t\t", tabuada, i, tabuada * i);
+
+            }
+            System.out.println("\t");
+        }
+    }
+}
