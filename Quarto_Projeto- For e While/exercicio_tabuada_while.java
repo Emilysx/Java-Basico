@@ -1,0 +1,16 @@
+public class exercicio_tabuada_while {
+    public static void main(String[] args) {
+
+        int tabuada = 1;
+
+        while (tabuada <= 10){
+            int i =1;
+            while (i <= 10){
+                System.out.printf("%d x %d = %d\t\t", tabuada, i, tabuada * i);
+                i++;
+            }
+            System.out.println();
+            tabuada++;
+        }
+    }
+}
