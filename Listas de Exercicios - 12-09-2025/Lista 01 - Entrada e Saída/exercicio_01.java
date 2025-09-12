@@ -21,7 +21,7 @@ public class exercicio_01 {
         System.out.print("Insira a prentensão salarial que vc estima: ");
         pretensao_salararial = scanner.nextDouble();
 
-        formacao = scanner.nextLine();
+        scanner.nextLine();
 
         System.out.print("Informe o grau de instrução: ");
         formacao = scanner.nextLine();
@@ -44,6 +44,8 @@ public class exercicio_01 {
         System.out.printf("CNH tipo B: %s\n", cnh);
 
         System.out.println("Cadastro concluido com sucesso!");
+
+        scanner.close();
 
 
 
