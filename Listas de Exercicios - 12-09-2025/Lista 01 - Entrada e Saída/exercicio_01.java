@@ -47,18 +47,5 @@ public class exercicio_01 {
 
         scanner.close();
 
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
