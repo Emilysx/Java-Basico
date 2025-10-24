@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-Basico.iml" filepath="$PROJECT_DIR$/Java-Basico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Segundo_Projeto - Nota/Segundo_Projeto - Nota.iml" filepath="$PROJECT_DIR$/Segundo_Projeto - Nota/Segundo_Projeto - Nota.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeiroProjeto/primeiroProjeto.iml" filepath="$PROJECT_DIR$/primeiroProjeto/primeiroProjeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/terceiroProjeto/terceiroProjeto.iml" filepath="$PROJECT_DIR$/terceiroProjeto/terceiroProjeto.iml" />
+    </modules>
+  </component>
+</project>
